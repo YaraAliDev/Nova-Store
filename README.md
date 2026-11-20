@@ -4,7 +4,7 @@ A modern and interactive fashion e-commerce website.
 
 🌐 Live Demo
 
-Visit Nova Store
+[Click here to visit Nova Store](https://yaraalidev.github.io/Nova-Store/)
 
 ✨ Features
 
